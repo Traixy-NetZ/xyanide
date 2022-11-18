@@ -1,0 +1,11 @@
+{
+    "color": "#00000",
+    "developerGuild": "1042849219955937290",
+    "database": "mongodb+srv://oddcoder:oddcoder@cluster0.hygob2n.mongodb.net/?retryWrites=true&w=majority",
+    "supportServer": "https://discord.gg/NUagxxPQ9E",
+    "activityInterval": 5,
+    "activities": [
+        "Playing Bot Life",
+        "Watching Xyanide Development"
+    ]
+}
